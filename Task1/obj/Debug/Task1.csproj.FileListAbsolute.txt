@@ -1,0 +1,15 @@
+F:\Projects\C#_projects\Task1\Task1\bin\Debug\Task1.exe.config
+F:\Projects\C#_projects\Task1\Task1\bin\Debug\Task1.exe
+F:\Projects\C#_projects\Task1\Task1\bin\Debug\Task1.pdb
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\MainWindow.g.cs
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\App.g.cs
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1_MarkupCompile.cache
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1_MarkupCompile.lref
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\MainWindow.baml
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1.g.resources
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1.exe
+F:\Projects\C#_projects\Task1\Task1\obj\Debug\Task1.pdb
